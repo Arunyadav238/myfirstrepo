@@ -1,2 +1,2 @@
 # myfirstrepo
-Just checking how a reposatory can be added
+Just checking how a reposatory can be added...
